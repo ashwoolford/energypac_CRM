@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "649ebd159e57888d8984487c3102157d",
+    "revision": "15e5ad5683dfd5a1e4c8a9bea30ef012",
     "url": "/energypac_CRM/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/energypac_CRM/static/css/2.1a1b9e1e.chunk.css"
   },
   {
-    "revision": "a25c85ac58d56f7024a2",
+    "revision": "b9730e302269621dd9f6",
     "url": "/energypac_CRM/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/energypac_CRM/static/js/2.e137fcb4.chunk.js"
   },
   {
-    "revision": "a25c85ac58d56f7024a2",
-    "url": "/energypac_CRM/static/js/main.d90a5d5f.chunk.js"
+    "revision": "b9730e302269621dd9f6",
+    "url": "/energypac_CRM/static/js/main.32b8cefa.chunk.js"
   },
   {
     "revision": "c340bcadf6f1ed52a242",

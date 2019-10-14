@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/energypac_CRM/static/css/main.34de6062.chunk.css",
-    "main.js": "/energypac_CRM/static/js/main.286a6c64.chunk.js",
-    "main.js.map": "/energypac_CRM/static/js/main.286a6c64.chunk.js.map",
+    "main.js": "/energypac_CRM/static/js/main.0a96346d.chunk.js",
+    "main.js.map": "/energypac_CRM/static/js/main.0a96346d.chunk.js.map",
     "runtime-main.js": "/energypac_CRM/static/js/runtime-main.90edd169.js",
     "runtime-main.js.map": "/energypac_CRM/static/js/runtime-main.90edd169.js.map",
     "static/css/2.1a1b9e1e.chunk.css": "/energypac_CRM/static/css/2.1a1b9e1e.chunk.css",
     "static/js/2.153c4db0.chunk.js": "/energypac_CRM/static/js/2.153c4db0.chunk.js",
     "static/js/2.153c4db0.chunk.js.map": "/energypac_CRM/static/js/2.153c4db0.chunk.js.map",
     "index.html": "/energypac_CRM/index.html",
-    "precache-manifest.60035f0e12821de70e5990008bbd0776.js": "/energypac_CRM/precache-manifest.60035f0e12821de70e5990008bbd0776.js",
+    "precache-manifest.3d9e2e0ad6538cd4eb1060b95e3f77cb.js": "/energypac_CRM/precache-manifest.3d9e2e0ad6538cd4eb1060b95e3f77cb.js",
     "service-worker.js": "/energypac_CRM/service-worker.js",
     "static/css/2.1a1b9e1e.chunk.css.map": "/energypac_CRM/static/css/2.1a1b9e1e.chunk.css.map",
     "static/css/main.34de6062.chunk.css.map": "/energypac_CRM/static/css/main.34de6062.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.1a1b9e1e.chunk.css",
     "static/js/2.153c4db0.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.286a6c64.chunk.js"
+    "static/js/main.0a96346d.chunk.js"
   ]
 }

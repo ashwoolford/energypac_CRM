@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/energypac_CRM/precache-manifest.3d9e2e0ad6538cd4eb1060b95e3f77cb.js"
+  "/energypac_CRM/precache-manifest.57ca812fe6ea27235ea137702bc34285.js"
 );
 
 self.addEventListener('message', (event) => {
